@@ -1,4 +1,4 @@
-# DARK MINI
+# Dark Mini
 
 Dark theme for rEFInd
 
