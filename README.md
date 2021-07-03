@@ -19,3 +19,4 @@ based systems. This is a clean, dark and minimal theme for it.
 After configuring the files according to your needs, run one of the following commands:
 
 - For Debian, Ubuntu, Kali (Linux): you run `sudo bash ./scripts/linux-debian.sh`
+- For Windows 10: you run `cmd` as admin with `scripts\windows`
