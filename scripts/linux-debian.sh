@@ -11,10 +11,9 @@ else
 fi
 
 PATH_SCRIPT=$PWD
+PATH_REFIND=$(find /boot/ -name "refind")
 
-cd ~
-cd ..
-cd boot/efi/EFI/refind
+cd $PATH_REFIND
 
 # Check if a directory does not exist
 if [ ! -d "themes" ] 
